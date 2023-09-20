@@ -29,7 +29,7 @@
 }
 .jumbotron {
   background: linear-gradient(to right, #e1c4be, #b79891);
-  padding-top: 4rem;
+  padding-top: 7rem;
 }
 .content {
   border-radius: 25px;
@@ -50,4 +50,29 @@ h3 {
 }
 p {
   font-family: sans-serif;
+}
+
+.tumpul {
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+input.form-control {
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+.bg-ColorB {
+  background: #b79891;
+  color: #f8f9fa;
+  font-family: monospace;
+}
+.bg-ColorB:focus {
+  background: #b79891;
+  color: #f8f9fa;
+  font-family: monospace;
 }
